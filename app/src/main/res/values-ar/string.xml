@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">اضافة صفح شخصية</string>
+    <string name="custom_post_following">متابعات</string>
+    <string name="custom_post_followers">متابعين</string>
+    <string name="custom_post_posts">منشورات</string>
+    <string name="custom_post_body">مرحبا بك في صفحتي الخاصة بي ، يمكنك متابعة صفحتي الآن!</string>
+    <string name="custom_post_like">اعجبني</string>
+    <string name="custom_post_share">مشاركة</string>
+    <string name="custom_post_comment">تعليق</string>
+    <string name="custom_post_follow">متابعة</string>
+
+</resources>

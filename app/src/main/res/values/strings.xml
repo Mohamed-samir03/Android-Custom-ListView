@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AddProfile</string>
+
+    <string name="custom_post_following">Following</string>
+    <string name="custom_post_followers">Followers</string>
+    <string name="custom_post_posts">Posts</string>
+    <string name="custom_post_body">Welcome to my profile, you can follow my now!</string>
+    <string name="custom_post_like">Like</string>
+    <string name="custom_post_share">Share</string>
+    <string name="custom_post_comment">Comment</string>
+    <string name="custom_post_follow">Follow</string>
+
+</resources>
